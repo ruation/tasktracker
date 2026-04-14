@@ -24,12 +24,12 @@ This project is focused on practicing:
 ---
 
 ## 📂 Project Structure
-
+```
 task-tracker-cli/  
 │── main.py  
 │── tasks.json  
 │── README.md  
-
+```
 ---
 
 ## ⚙️ Requirements
@@ -51,11 +51,13 @@ python main.py <command> [arguments]
 
 To see all available commands, run:
 ```
-python main.py --help```
+python main.py --help
+```
 
 or
 ```
-python main.py -h```
+python main.py -h
+```
 
 Output:
 ```
