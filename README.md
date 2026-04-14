@@ -23,15 +23,6 @@ This project is focused on practicing:
 
 ---
 
-## 📂 Project Structure
-```
-task-tracker-cli/  
-│── main.py  
-│── tasks.json  
-│── README.md  
-```
----
-
 ## ⚙️ Requirements
 
 - Python 3.x  
@@ -74,7 +65,7 @@ Commands:
  -l --notdone                                         List not done tasks
  -l --in-progress                                     List in-progress tasks
  -h, --help                                           Show the help message (this message)
-``
+```
 ---
 
 ## 🗃️ JSON File Format
